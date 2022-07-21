@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phredi
 - 👀 I’m interested in Python, Javascript, web development (front- & back-end)
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, containers
 - 💞️ I’m looking to collaborate on ... (not sure yet)
 - 📫 How to reach me: (private at the moment)
 
